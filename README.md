@@ -37,13 +37,10 @@ A robust command-line based Library Management System that helps librarians mana
 
 Library-management-system/
 
-├── main.py            # Main application file
-
-├── database.py        # Database operations
-
-├── library.db         # SQLite database
-
-└── README.md          # Documentation
+├── main.py                  # Main application file
+├── database.py              # Database operations
+├── library.db               # SQLite database
+└── README.md                # Documentation
 
 ## ⚙️ Installation
 
