@@ -34,7 +34,9 @@ A robust command-line based Library Management System that helps librarians mana
 - Command Line Interface
 
 ## 📁 Project Structure
+
 Library-management-system/
+
 ├── main.py           # Main application file
 ├── database.py       # Database operations
 ├── library.db        # SQLite database
